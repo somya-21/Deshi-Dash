@@ -1,4 +1,4 @@
-[# 🍔 Food Delivery Website
+# 🍔 Food Delivery Website
 
 A full-stack **Food Delivery Web Application** built with **React.js, Node.js, Express.js, and MongoDB**. The application provides a seamless online food ordering experience with secure authentication, responsive design, real-time search, and shopping cart functionality.
 
