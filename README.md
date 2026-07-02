@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Website
+[# 🍔 Food Delivery Website
 
 A full-stack **Food Delivery Web Application** built with **React.js, Node.js, Express.js, and MongoDB**. The application provides a seamless online food ordering experience with secure authentication, responsive design, real-time search, and shopping cart functionality.
 
@@ -110,7 +110,7 @@ JWT_SECRET=your_jwt_secret
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
+Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.](https://github.com/somya-21/Deshi-Dash)
 
 ## Demo:
 [Click here to view live]
